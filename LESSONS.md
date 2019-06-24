@@ -4,8 +4,6 @@ Woodworking is all about the precision in execution and adjustments to the event
 
 Making my table and bench can be summarized at the highest level to prep, execute, adjust, finish and clean up. I added clean up because it was a stressful part for me. After the mental tax of prepping, executing, adjusting and finishing, it’s easy to ignore the details of cleaning that will make the next phase easier.
 
-After looking back at the table and bench builds, here is how I will frame my approach with my next indoor furniture builds:
-
 ## **Design**
 
 I chose the design that included more straight cuts and less complex joinery. In order to get a feel of the piece in my kitchen, I wanted to design it out to the dimensions and “see” it fit.
