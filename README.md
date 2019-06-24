@@ -5,3 +5,6 @@ This workbench will be the central workhose for the garage. It wil provide infee
 
 ## Materials
 The framing will be all 2x4s from Lowes and the table top will be 3/4" Birch plywood to provide a smooth and stable surface.
+
+## Learning Goals
+This piece was pretty straightfowards for tools and cuts. It's all butt joints and square cuts. Measuring out the specific heights for the recessed platforms for the saws is critical to have a proper outfeed. 
